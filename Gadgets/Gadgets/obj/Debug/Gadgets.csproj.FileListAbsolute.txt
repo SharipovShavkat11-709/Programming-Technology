@@ -1,0 +1,10 @@
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\bin\Debug\Gadgets.exe.config
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\bin\Debug\Gadgets.exe
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\bin\Debug\Gadgets.pdb
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\obj\Debug\Gadgets.csprojAssemblyReference.cache
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\obj\Debug\Gadgets.Properties.Resources.resources
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\obj\Debug\Gadgets.csproj.GenerateResource.cache
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\obj\Debug\Gadgets.csproj.CoreCompileInputs.cache
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\obj\Debug\Gadgets.exe
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\obj\Debug\Gadgets.pdb
+C:\Users\SHAVKAT\Documents\GitHub\Programming-Technology\Gadgets\Gadgets\obj\Debug\Gadgets.Form1.resources
